@@ -1,4 +1,4 @@
-# $ModuleName release export
+# messagingrabbitmq release export
 
 This directory was generated from the incubation workspace.
 
