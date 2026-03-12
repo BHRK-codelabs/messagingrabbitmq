@@ -1,0 +1,11 @@
+name: messagingrabbitmq
+module: github.com/BHRK-codelabs/messagingrabbitmq
+type: adapter
+status: incubating
+initial_version: v0.1.0
+repo_name: messagingrabbitmq
+tag_prefix: v
+publish: true
+dependencies:
+  - github.com/BHRK-codelabs/corekit
+  - github.com/BHRK-codelabs/messagingkit
